@@ -10,7 +10,7 @@ Images are custom.
 
 
 ## Optimal Capital Structure
-![image](PersonalTaxes.jpg)
+![image](OptimalCapitalStructure.png)
 
 
 ## My Personal Income Taxes
