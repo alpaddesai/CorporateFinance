@@ -7,3 +7,9 @@ Confidential information is not displayed.
 Please download the executable in https://github.com/alpaddesai/PCBDesignProcess/releases for details.
 
 Images are custom.
+
+
+## Optimal Capital Structure
+
+## My Personal Income Taxes
+![image](PersonalTaxes.png)
