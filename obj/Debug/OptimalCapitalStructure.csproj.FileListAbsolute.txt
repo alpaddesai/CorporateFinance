@@ -1,0 +1,14 @@
+C:\Users\alpag\source\repos\OptimalCapitalStructure\OptimalCapitalStructure\obj\Debug\MainWindow.g.cs
+C:\Users\alpag\source\repos\OptimalCapitalStructure\OptimalCapitalStructure\obj\Debug\App.g.cs
+C:\Users\alpag\source\repos\OptimalCapitalStructure\OptimalCapitalStructure\obj\Debug\OptimalCapitalStructure_MarkupCompile.cache
+C:\Users\alpag\source\repos\OptimalCapitalStructure\OptimalCapitalStructure\obj\Debug\OptimalCapitalStructure_MarkupCompile.lref
+C:\Users\alpag\source\repos\OptimalCapitalStructure\OptimalCapitalStructure\obj\Debug\MainWindow.baml
+C:\Users\alpag\source\repos\OptimalCapitalStructure\OptimalCapitalStructure\obj\Debug\OptimalCapitalStructure.g.resources
+C:\Users\alpag\source\repos\OptimalCapitalStructure\OptimalCapitalStructure\obj\Debug\OptimalCapitalStructure.pdb
+C:\Users\alpag\source\repos\OptimalCapitalStructure\OptimalCapitalStructure\bin\Debug\OptimalCapitalStructure.exe.config
+C:\Users\alpag\source\repos\OptimalCapitalStructure\OptimalCapitalStructure\bin\Debug\OptimalCapitalStructure.exe
+C:\Users\alpag\source\repos\OptimalCapitalStructure\OptimalCapitalStructure\bin\Debug\OptimalCapitalStructure.pdb
+C:\Users\alpag\source\repos\OptimalCapitalStructure\OptimalCapitalStructure\obj\Debug\OptimalCapitalStructure.Properties.Resources.resources
+C:\Users\alpag\source\repos\OptimalCapitalStructure\OptimalCapitalStructure\obj\Debug\OptimalCapitalStructure.csproj.GenerateResource.cache
+C:\Users\alpag\source\repos\OptimalCapitalStructure\OptimalCapitalStructure\obj\Debug\OptimalCapitalStructure.csproj.CoreCompileInputs.cache
+C:\Users\alpag\source\repos\OptimalCapitalStructure\OptimalCapitalStructure\obj\Debug\OptimalCapitalStructure.exe
