@@ -13,5 +13,5 @@ Images are custom.
 ![image](OptimalCapitalStructure.png)
 
 
-## My Personal Income Taxes
+## Taxes
 ![image](PersonalTaxes.png)
