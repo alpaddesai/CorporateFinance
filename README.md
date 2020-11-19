@@ -1,4 +1,4 @@
-# Optimal Capital Structure
+# Corporate Finance
 
 The project provides an introduction to the Optimal Capital Structure
 
