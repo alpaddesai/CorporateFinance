@@ -15,3 +15,5 @@ Images are custom.
 
 ## Taxes
 ![image](PersonalTaxes.png)
+
+Further details please reference https://github.com/alpaddesai/FinancialAccountingIdea and https://github.com/alpaddesai/ManagerialAccounting.
