@@ -8,12 +8,12 @@ Please download the executable in https://github.com/alpaddesai/OptimalCapitalSt
 
 Images are custom.
 
-
 ## Optimal Capital Structure
 ![image](OptimalCapitalStructure.png)
 
-
 ## Taxes
 ![image](PersonalTaxes.png)
+
+![image](USCopyrightCertificate.png)
 
 Further details please reference https://github.com/alpaddesai/FinancialAccountingIdea and https://github.com/alpaddesai/ManagerialAccounting.
