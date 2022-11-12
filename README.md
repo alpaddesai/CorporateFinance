@@ -16,4 +16,6 @@ Images are custom.
 
 ![image](USCopyrightCertificate.png)
 
+![image](Ethics.jpg)
+
 Further details please reference https://github.com/alpaddesai/FinancialAccountingIdea and https://github.com/alpaddesai/ManagerialAccounting.
