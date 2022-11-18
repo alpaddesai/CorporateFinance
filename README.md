@@ -15,7 +15,7 @@ Images are custom.
 ![image](PersonalTaxes.png)
 
 ## Exam
-![image](Exam.jpg)
+![image](CFAExam.jpg)
 
 ![image](USCopyrightCertificate.png)
 
