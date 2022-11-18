@@ -14,6 +14,9 @@ Images are custom.
 ## Taxes
 ![image](PersonalTaxes.png)
 
+## Exam
+![image](Exam.jpg)
+
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
