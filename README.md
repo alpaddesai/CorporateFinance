@@ -21,4 +21,4 @@ Images are custom.
 
 ![image](Ethics.jpg)
 
-Further details please reference https://github.com/alpaddesai/GlobalInvestmentsMutualFunds and https://github.com/alpaddesai/ManagerialAccounting.
+Further details please reference  https://github.com/alpaddesai/ManagerialAccounting.
