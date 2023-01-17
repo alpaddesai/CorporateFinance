@@ -18,4 +18,4 @@ Images are custom.
 
 ![image](Ethics.jpg)
 
-Further details please reference  https://github.com/alpaddesai/ManagerialAccounting.
+Further details please reference https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
